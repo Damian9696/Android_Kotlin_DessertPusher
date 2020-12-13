@@ -1,14 +1,31 @@
-# Activity Lifecycle - DessertPusher 
+# DesertPusher
+> This app is for exploring the Activity Lifecycle callback methods and the Lifecycle object.
 
-This is the toy app for lesson 4 of the [Android App Development in Kotlin course on Udacity](https://classroom.udacity.com/courses/ud9012/lessons/e487c600-ed68-4576-a35a-12f211cf032e/concepts/6a155d63-8153-4a56-95cb-1dfdf06aa173).
+## Table of contents
+* [General info](#general-info)
+* [Screenshots](#screenshots)
+* [Technologies](#technologies)
+* [Setup](#setup)
+* [Status](#status)
 
-## DessertPusher
-
+## General info
+The main goal of this project was to start writing Android code in Kotlin and learn how to deal with Android components using the core Kotlin features.
 DessertPusher is a game about making desserts. Press the button, make a dessert, earn the big bucks.
 
-This app is for exploring the [Activity Lifecycle callback methods](https://developer.android.com/guide/components/activities/activity-lifecycle) and the [Lifecycle](https://developer.android.com/reference/android/arch/lifecycle/Lifecycle) object.
-
-
 ## Screenshots
+![Screenshot1](screenshots/desertpusher1.jpg)
+![Screenshot1](screenshots/desertpusher2.jpg)
+![Screenshot1](screenshots/desertpusher3.jpg)
+![Screenshot1](screenshots/desertpusher4.jpg)
 
-![Screenshot1](screenshots/screen0.png) ![Screenshot1](screenshots/screen1.png) ![Screenshot1](screenshots/screen2.png)
+
+## Technologies
+* Kotlin - 1.3.30
+* Android Studio
+
+## Setup
+* Clone or download ZIP repository https://github.com/Damian9696/Android_Kotlin_DessertPusher
+* Import the project into Android Studio
+
+## Status
+* Project is: _finished_. The project was not created for future updates
